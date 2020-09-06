@@ -1,0 +1,12 @@
+[
+    {   
+        "host":"RouterA",
+        "device_type": "linux",
+        "ip": "192.168.10.***",
+        "username": "***",
+        "password": "***",
+        "port": 22,
+        "verbose":"True"
+    }
+
+]
