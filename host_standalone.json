@@ -1,0 +1,10 @@
+{
+    "hostA": {
+        "device_type": "linux",
+        "ip": "192.168.10.109",
+        "username": "takafumi",
+        "password": "epion108",
+        "port": 22,
+        "verbose":"True"
+    }
+}

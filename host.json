@@ -1,0 +1,21 @@
+[
+    {   
+        "host":"Router1",
+        "device_type": "cisco_ios_telnet",
+        "ip": " 10.211.55.14",
+        "username": "admin",
+        "password": "hoge",
+        "port": 32769,
+        "verbose":"True"
+    },
+
+    {
+        "host":"Router2",
+        "device_type": "cisco_ios_telnet",
+        "ip": " 10.211.55.14",
+        "username": "admin",
+        "password": "hoge",
+        "port": 32770,
+        "verbose":"True"
+    }
+]
